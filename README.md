@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Jakub Cecuła</h1>
-<h3 align="center">Young enthusiastic rookie developer from Poland.</h3>
+<h3 align="center">Young enthusiastic junior developer from Poland.</h3>
 
 - 📚 I’m currently learning: **C# and .NET**
 
 - 🏫 In my high school years i've been learning: **C++, HTML, CSS**
 
-- ⌛ Last 4 months i spent on functional programming and gaining basic Linux knowledge in: **Python, Gnome**
+- ⌛ Since May 2022 I'm working on a commercial project in Ailleron as a Software Engineer
 
 - 📫 How to reach me: **ceculajakub@gmail.com**
 
