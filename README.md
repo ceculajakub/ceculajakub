@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **ceculajakub@gmail.com**
 
-- ⚽ Free time: **Football and video games.**
+- ⚽ Free time: **Bouldering**
 
 
 
